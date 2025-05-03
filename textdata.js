@@ -1,9 +1,9 @@
 {
-"footer": "Repo : github.com/?/?\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ",
+"footer": "Repo : github.com/mrlaka/Laka-Md-v3\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ",
 "mainimg": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/lakamd.jpg",
 "version": "3.0.0",
 "mongo": "mongodb+srv://laka:wtf@lakawtf.lgtf0yf.mongodb.net/",
-"repoo": "gg",
+"repoo": "github.com/mrlaka/Laka-Md-v3",
 "zipfile": "gg",
 "weburl": "gg",
 "barkmdg": "අපිට කොහෙද මාලු අපි යන්නේ නැනේ මුහුදු",
