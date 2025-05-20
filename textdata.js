@@ -1,6 +1,6 @@
 {
 "footer": "Repo : github.com/mrlaka/Laka-Md-v3\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ",
-"mainimg": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/lakamd.jpg",
+"mainimg": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/lakamd2.jpg",
 "version": "3.0.0",
 "mongo": "mongodb+srv://lakaofc:naginenathiumesh@wtdflaka.aibfd3q.mongodb.net/",
 "repoo": "github.com/mrlaka/Laka-Md-v3",
