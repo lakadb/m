@@ -2,7 +2,7 @@
 "footer": "Repo : github.com/mrlaka/Laka-Md-v3\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ",
 "mainimg": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/lakamd.jpg",
 "version": "3.0.0",
-"mongo": "mongodb+srv://wtf:wtf@huke.spmv1x2.mongodb.net/",
+"mongo": "mongodb+srv://lakaofc:lakamd@lakadb.au8bcuk.mongodb.net/lakadb",
 "repoo": "github.com/mrlaka/Laka-Md-v3",
 "zipfile": "www.mediafire.com/file/uatoekkjwa95bym/Laka-Md-v3-main.zip/file",
 "weburl": "lakamd-edb22d256a05.herokuapp.com",
