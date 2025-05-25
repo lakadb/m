@@ -5,7 +5,7 @@
 "mongo": "mongodb+srv://lakaofc:lakamd@lakadb.au8bcuk.mongodb.net/lakadb",
 "repoo": "github.com/mrlaka/Laka-Md-v3",
 "zipfile": "www.mediafire.com/file/uatoekkjwa95bym/Laka-Md-v3-main.zip/file",
-"weburl": "lakamd-edb22d256a05.herokuapp.com",
+"weburl": "laka-web-c1cfbdab0e5c.herokuapp.com",
 "barkmdg": "අපිට කොහෙද මාලු අපි යන්නේ නැනේ මුහුදු",
 "alivemg": "*Laka Md WhatsApp Bot Is SriLanka Creacte By Lashmitha (LakaOfc) 🔥*",
 "replyMsg": {
