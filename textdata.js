@@ -1,5 +1,5 @@
 {
-"footer": "Repo : github.com/mrlaka/Laka-Md-v3\n\nFollow us : whatsapp.com/channel/0029Vb6FEaJ5kg79LXF2gG3Z\n\n> *🔑 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝗟𝗮𝗸𝗮-𝗠𝗱 𝗩3 🦅*",
+"footer": "Follow us : whatsapp.com/channel/0029Vb6FEaJ5kg79LXF2gG3Z\n\n> *𝗣 𝗢 𝗪 𝗘 𝗥 𝗘 𝗗  𝗕 𝗬   𝗟 𝗔 𝗞 𝗔 - 𝗠 𝗗 🦅*",
 "mainimg": "https://raw.githubusercontent.com/lakadb/m/refs/heads/main/new.jpg",
 "version": "3.0.0",
 "mongo": "mongodb+srv://laka:new@new.xxcakrt.mongodb.net/new",
